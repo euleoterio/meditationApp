@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Meditation App\nCom finalidade de estudos, app desenvolvido com React Native.",
+    "githubUrl": "https://github.com/euleoterio/meditationApp"
   }
 }
